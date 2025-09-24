@@ -22,7 +22,7 @@ sri-lanka-tourism-stats/</br>
 │  ├─📄 tourism.csv </br>
 │  ├─📄 tourism_clean.csv  </br>
 │  └─📄 tourism_explored.csv </br>
-├─ notebooks/              # Jupyter notebooks (the four core notebooks) </br>
+├─📂notebooks/              # Jupyter notebooks (the four core notebooks) </br>
 │  ├─📓 exploratory_analysis_1.ipynb </br>
 │  ├─📓 exploratory_analysis_2.ipynb </br>
 │  ├─📓 predictions.ipynb </br>
