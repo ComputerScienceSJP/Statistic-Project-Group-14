@@ -20,18 +20,19 @@ We apply probability distributions, confidence intervals, hypothesis testing, co
 sri-lanka-tourism-stats/</br>
 ├─📂 data/                   # raw and cleaned datasets </br>
 │  ├─📄 tourism.csv </br>
-│  └─📄 tourism_clean.csv   </br>
+│  ├─📄 tourism_clean.csv  </br>
+│  └─📄 tourism_explored.csv </br>
 ├─ notebooks/              # Jupyter notebooks (the four core notebooks) </br>
-│  ├─📓 read_data.ipynb </br>
-│  ├─📓 statistical_methods.ipynb </br>
+│  ├─📓 exploratory_analysis_1.ipynb </br>
+│  ├─📓 exploratory_analysis_2.ipynb </br>
 │  ├─📓 predictions.ipynb </br>
-│  └─📓 risk_analysis.ipynb </br>
-├─📂 src/                   # helper scripts (optional) </br>
-├─📂 report/                # LaTeX files for final report </br>
+│  ├─📓 risk_analysis.ipynb </br>
+│  └─📓 statistical_methods.ipynb </br>
+├─📂 Research_Report/                # LaTeX files for final report </br>
 ├─📂 figures/               # generated figures (png/pdf) </br>
-├─📄 requirements.txt </br>
+├─📄 LICENSE </br>
 ├─📄 README.md </br>
-└─📄 .gitignore </br>
+└─📄 requirements.txt </br>
 
 
 ### 📊 Data Source
